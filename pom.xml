@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.86.75:8081/repository/ci-releases/</url>
+	      <name>ci-cd releases Repository</name>
+	      <url>http://13.127.86.75:8081/repository/ci-cd-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.86.75:8081/repository/ci-sanpshots/</url>
+	      <name>ci-cd Snapshot Repository </name>
+	      <url>http://13.127.86.75:8081/repository/ci-cd-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
